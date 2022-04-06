@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script src="script.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <h1>Hello there!</h1>
+
+<!-- TO ADD USER INPUT 
+  The input should be given in the first input box as a string. The user should be able to enter numbers, separated by commas. In JavaScript, you’ll convert this string to an array of numbers.
+ -->
+
+    <div class='user-input'>
+      <label>1. Enter numbers, separated by commas.</label><br><br>
+      <input id='enter-numbers'><button for="enter-numbers" type='Submit' onclick='inputNewArr()'>Submit</button>
+      <p>or instead:</p>
+      <label for='input'>2. Generate an array of <input id='input' name='input' type='text'> numbers</label>
+      <button for="input" type='Submit' onclick='outputNewArr()'>Submit</button><br><br>
+      <div id='your-array-box'>
+        <label>Your array:</label>
+        <div id='your-array'>
+          ...
+        </div>
+      </div>
+    </div>
+    <div id='container-head'>
+      <div class='container-text'>
+        <label for='functions'>Chose a function</label><br>
+      </div>
+      <div class='container-text'>Result
+        </div>
+    </div>
+    <div id='function-output'>
+      <div class='functions'>
+        <label for='filter' name="functions">Filter my array</label>
+        <input id='filter'  name='functions' type='radio' onclick='filterArr()'></input><br><br>
+
+        <label for='sum'>Sum my array</label>
+        <input id='sum' type='radio' name='functions' onclick='reduceArr()'></input><br><br>
+      </div>
+      <div id='output'>
+        
+      </div>
+    </div>
+  </body>
+</html>
