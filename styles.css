@@ -1,5 +1,5 @@
 body {
-  background-color: greenyellow;
+  background-color: #0099E5;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 20px;
 }
@@ -23,7 +23,7 @@ body {
 
 .container-child {
   width: 50%;
-  border-style: 5px solid black;
+  border-style: 5px solid #242424;
 }
 
 #container-head, #container {
@@ -34,7 +34,7 @@ body {
   width: 50%;
   height: 20px;
   padding: 5px;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #242424;
 }
 
 .functions {
