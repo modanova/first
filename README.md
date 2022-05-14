@@ -34,6 +34,6 @@ git commit
 
 This is a link to my [GitHubHomePage](https://github.com/modanova).
 
-![This is an embeded](https://user-images.githubusercontent.com/99407460/168430375-0799037f-61b4-4223-a9c8-a20bfa165c89.jpg)
+![This is an embeded](https://user-images.githubusercontent.com/99407460/168430375-0799037f-61b4-4223-a9c8-a20bfa165c89.jpg#gh-dark-mode-only)
 
-![This is a link to an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5TxNKgIlA7UV06BjpaYNwJKAqiwV2JmTsfAUQY1TWC6trUBnzmu7JMLkwEv1tZ8OP-ZI&usqp=CAU)
+![This is a link to an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5TxNKgIlA7UV06BjpaYNwJKAqiwV2JmTsfAUQY1TWC6trUBnzmu7JMLkwEv1tZ8OP-ZI&usqp=CAU#gh-light-mode-only)
