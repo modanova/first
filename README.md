@@ -13,7 +13,7 @@ Please take a look at my first website: https://modanova.github.io/first/
 
 _This text is italic. _
 
-~~This text is a mistake. ~~
+~~This text is a mistake.~~s
 
 **This text is important and contains even more _important information!_**
 
