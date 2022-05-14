@@ -50,14 +50,14 @@ Days to work on the program:
 3. The Weekend
 
 My shopping list:
-- Fruits
+1. Fruits
   - yellow fruits
     - bananas
     - melon
   - red fruits
     - strawberry
     - tomatoes
-- Vegetables
+2. Vegetables
   - to cook
     - courgette
   - for salad 
