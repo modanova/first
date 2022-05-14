@@ -47,4 +47,21 @@ Don't forget to complete all steps of the requirements:
 Days to work on the program: 
 1. Monday
 2. Thursday
-3. Weekend
+3. The Weekend
+
+My shopping list:
+- Fruits
+  - yellow fruits
+    - bananas
+    - melon
+  - red fruits
+    - strawberry
+    - tomatoes
+- Vegetables
+  - to cook
+    - courgette
+  - for salad 
+    - cucumber
+      - mini
+      - maxi
+      - gherkins 
