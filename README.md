@@ -77,6 +77,8 @@ A footnote can also have multiple lines[^2].
 
 You can also use words, to fit your writing style more closely[^note].
 
+@ivandanov What do you think?
+
 [^1]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines.
