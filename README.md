@@ -51,17 +51,17 @@ Days to work on the program:
 
 My shopping list:
 1. Fruits
-  - yellow fruits
-    - bananas
-    - melon
-  - red fruits
-    - strawberry
-    - tomatoes
+   - yellow fruits
+     - bananas
+     - melon
+   - red fruits
+     - strawberry
+     - tomatoes
 2. Vegetables
-  - to cook
-    - courgette
-  - for salad 
-    - cucumber
-      - mini
-      - maxi
-      - gherkins 
+   - to cook
+     - courgette
+   - for salad 
+     - cucumber
+       - mini
+       - maxi
+       - gherkins 
