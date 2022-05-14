@@ -23,3 +23,13 @@ The following text is a quote
 > The more you know, the more you realise you don't know. 
 Aristotles
 
+This is `a line of code` within a sentence. 
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+This is a link to my [GitHubHomePage](https://github.com/modanova).
